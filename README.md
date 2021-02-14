@@ -1,6 +1,6 @@
 <h1 align="center">Awax</h1>
 
-<p align="center">O projeto acadêmico é landpage usando tecnologias Html, Css, Javascript e muito flexbox</p>
+<p align="center">O projeto acadêmico é landipage usando tecnologias Html, Css, Javascript e muito flexbox</p>
 
 ## Imagens de demonstração
 <div align="center">
