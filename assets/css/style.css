@@ -965,7 +965,7 @@ footer {
         height: calc(100vh - 100px);
         transition: all .5s linear;
         top: 100px;
-        right: 0px;
+        right: -535px;
     }
     input[id="chec"]:checked ~ nav {
         right: 0;
